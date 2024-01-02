@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kévin</h1>
 <h3 align="center">A web and mobile developer from France</h3>
 
-- 📫 How to reach me **hello@kmartin.io**
+- 📫 You can reach me [**here**](https://kmartin.io/contact/)
 
 - 📄 Know about my experiences [https://kmartin.io/](https://kmartin.io/)
 
