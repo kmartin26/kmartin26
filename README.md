@@ -1,7 +1,6 @@
 # 💫 About Me:
-Full-stack developer with **10+ years of experience**, specialized in **PHP, MySQL, HTML, CSS, and JavaScript**.  
-I build **mobile applications for smart buildings** and work on freelance projects in my spare time.  
-Passionate about coding, I love creating efficient and user-friendly solutions.  
+Full-stack developer with **10+ years of experience**, specialized in **web technologies** (PHP, MySQL, jQuery, VueJS, Laravel) and **mobile development** (React Native).  
+I build **smart building applications** and take on freelance projects in my spare time.  
 
 🚀 **Let’s build something great!**
 
