@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on my url shortener to provide user accounts and statistics<br>🌱 I’m currently learning VueJS<br>💬 Ask me about PHP / MySQL or any of your ideas !
+Full-stack developer with **10+ years of experience**, specialized in **PHP, MySQL, HTML, CSS, and JavaScript**.  
+I build **mobile applications for smart buildings** and work on freelance projects in my spare time.  
+Passionate about coding, I love creating efficient and user-friendly solutions.  
 
+🚀 **Let’s build something great!**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kmartin26) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10046423) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_valpex) 
@@ -14,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kmartin26&icon=0&color=0)](https://visitcount.itsvg.in)
